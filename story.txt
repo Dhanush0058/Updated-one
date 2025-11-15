@@ -1,0 +1,16 @@
+Mission Log — Entry 47  
+Commander Rhea Solis stood inside the observation dome of the Helion Station,
+watching the pale blue nebula swirl outside. The energy waves had been growing
+stronger each hour, and the station’s sensors were struggling to keep up.
+
+Rhea activated the core console, but the interface flickered. A segment of the
+primary log file was gone. Half the entry was missing, as if wiped remotely.
+Only one line remained intact from the corrupted part:
+
+“The source of the anomaly can only be understood ..if the data is reunited.  
+The anomaly pulses in patterns that suggest intelligence —  
+almost as if it senses when it is being watched.  
+
+This final fragment was separated to prevent an accidental trigger.  
+Once restored, Helion Station's core systems will unlock the true nature  
+of the signal we've been tracking."
